@@ -38,7 +38,7 @@ print('=' * 55);
 # a) Atribuir o valor inteiro 3 à variável 'a'
 a = 1;
 print("O valor atribuido à variável 'a' é:", a);
-print('=' * 55);
+print('='*55);
 
 # b) Atribuir o valor 4 à variável 'b'
 b = 4;
