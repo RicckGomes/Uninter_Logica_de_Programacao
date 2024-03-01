@@ -62,7 +62,7 @@ s1 = 'ant';
 s2 = 'bat';
 s3 = 'cod';
 
-# Agora, utilizando operadores + e*, crie as saídas a seguir:
+# Agora, utilizando operadores + e *, crie as saídas a seguir:
 
 # a) 'ant bat cod'
 print(s1 + ' ' + s2 + ' ' + s3);
